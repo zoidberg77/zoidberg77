@@ -1,6 +1,6 @@
 ## Stats & Stuff
 
-[![Zoidberg77's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoidberg77)](https://github.com/zoidberg77/github-readme-stats&show_icons=true&theme=dark)
+[![Zoidberg77's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoidberg77&show_icons=true&theme=dark)](https://github.com/zoidberg77/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=zoidberg77&color=green)
